@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Catálogo de Filmes - MVC PHP
 Descrição
 
@@ -45,3 +46,6 @@ http://localhost/CATALAGO_FILMES2
 Autor
 
 Leonardo Santos
+=======
+# Catalago-Filmes
+>>>>>>> 95f1d5d656595e44831c62f2554f8a1ef6933868
