@@ -37,6 +37,6 @@ Campos:
 - Acessar: http://localhost/CATALAGO_FILMES2
 
 ## Autores
-- Leonardo cadena dos Santos
+- Leonardo Cadena dos Santos
 - Edson Carneiro de Moraes Netto
 - Bernardo
